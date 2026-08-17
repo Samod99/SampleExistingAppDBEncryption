@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQCQ9XdK3E8=",
+  "success": true,
+  "projectFilePath": "C:\\OSSEC Binusha\\Dev\\DB Encryption Demo\\Excisting App\\SampleExistingApp\\SecureDb.Core\\SecureDb.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

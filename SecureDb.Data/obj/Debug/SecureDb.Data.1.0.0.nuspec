@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SecureDb.Data</id>
+    <version>1.0.0</version>
+    <authors>Your Team</authors>
+    <description>Database-agnostic transparent encryption wrapper (SecureDbConnection/SecureDbCommand/SecureDataReader) for any ADO.NET provider.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="SecureDb.Core" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\bin\Debug\net8.0-windows\SecureDb.Data.dll" target="lib\net8.0-windows7.0\SecureDb.Data.dll" />
+  </files>
+</package>

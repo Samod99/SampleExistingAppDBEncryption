@@ -1,0 +1,198 @@
+[
+  {
+    "schema": "dbo",
+    "table": "BankDetails",
+    "primaryKey": [
+      "BankDetailID"
+    ],
+    "foreignKeys": [
+      "EmployeeID"
+    ],
+    "columns": [
+      {
+        "name": "BankDetailID",
+        "dataType": "int",
+        "maxLength": null,
+        "nullable": false,
+        "isPrimaryKey": true,
+        "isForeignKey": false
+      },
+      {
+        "name": "EmployeeID",
+        "dataType": "int",
+        "maxLength": null,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": true
+      },
+      {
+        "name": "AccountNumber",
+        "dataType": "varchar",
+        "maxLength": 30,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      },
+      {
+        "name": "BankName",
+        "dataType": "varchar",
+        "maxLength": 100,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      }
+    ]
+  },
+  {
+    "schema": "dbo",
+    "table": "Department",
+    "primaryKey": [
+      "DepartmentID"
+    ],
+    "foreignKeys": [],
+    "columns": [
+      {
+        "name": "DepartmentID",
+        "dataType": "int",
+        "maxLength": null,
+        "nullable": false,
+        "isPrimaryKey": true,
+        "isForeignKey": false
+      },
+      {
+        "name": "DepartmentName",
+        "dataType": "varchar",
+        "maxLength": 100,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      }
+    ]
+  },
+  {
+    "schema": "dbo",
+    "table": "Employee",
+    "primaryKey": [
+      "EmployeeID"
+    ],
+    "foreignKeys": [
+      "DepartmentID"
+    ],
+    "columns": [
+      {
+        "name": "EmployeeID",
+        "dataType": "int",
+        "maxLength": null,
+        "nullable": false,
+        "isPrimaryKey": true,
+        "isForeignKey": false
+      },
+      {
+        "name": "DepartmentID",
+        "dataType": "int",
+        "maxLength": null,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": true
+      },
+      {
+        "name": "FullName",
+        "dataType": "varchar",
+        "maxLength": 100,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      },
+      {
+        "name": "Email",
+        "dataType": "varchar",
+        "maxLength": 100,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      },
+      {
+        "name": "Phone",
+        "dataType": "varchar",
+        "maxLength": 20,
+        "nullable": true,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      },
+      {
+        "name": "NIC",
+        "dataType": "varchar",
+        "maxLength": 20,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      },
+      {
+        "name": "DateOfBirth",
+        "dataType": "date",
+        "maxLength": null,
+        "nullable": true,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      },
+      {
+        "name": "Salary",
+        "dataType": "decimal",
+        "maxLength": null,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      },
+      {
+        "name": "Password",
+        "dataType": "varchar",
+        "maxLength": 50,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      }
+    ]
+  },
+  {
+    "schema": "dbo",
+    "table": "Vendor",
+    "primaryKey": [
+      "VendorID"
+    ],
+    "foreignKeys": [],
+    "columns": [
+      {
+        "name": "VendorID",
+        "dataType": "int",
+        "maxLength": null,
+        "nullable": false,
+        "isPrimaryKey": true,
+        "isForeignKey": false
+      },
+      {
+        "name": "VendorName",
+        "dataType": "varchar",
+        "maxLength": 100,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      },
+      {
+        "name": "Email",
+        "dataType": "varchar",
+        "maxLength": 100,
+        "nullable": false,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      },
+      {
+        "name": "Phone",
+        "dataType": "varchar",
+        "maxLength": 20,
+        "nullable": true,
+        "isPrimaryKey": false,
+        "isForeignKey": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\bin\Debug\net8.0-windows\SecureDb.Data.deps.json
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\bin\Debug\net8.0-windows\SecureDb.Data.dll
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\bin\Debug\net8.0-windows\SecureDb.Data.pdb
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\bin\Debug\net8.0-windows\SecureDb.Core.dll
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\bin\Debug\net8.0-windows\SecureDb.Core.pdb
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\SecureDb.Data.csproj.AssemblyReference.cache
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\SecureDb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\SecureDb.Data.AssemblyInfoInputs.cache
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\SecureDb.Data.AssemblyInfo.cs
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\SecureDb.Data.csproj.CoreCompileInputs.cache
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\SecureDb.E25A81A6.Up2Date
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\SecureDb.Data.dll
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\refint\SecureDb.Data.dll
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\SecureDb.Data.pdb
+C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Data\obj\Debug\net8.0-windows\ref\SecureDb.Data.dll

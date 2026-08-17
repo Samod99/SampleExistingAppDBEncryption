@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SecureDb.Core</id>
+    <version>1.0.0</version>
+    <authors>Your Team</authors>
+    <description>Envelope-encryption engine and key manager for SecureDb. No database-specific code.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="System.Security.Cryptography.ProtectedData" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\OSSEC Binusha\Dev\DB Encryption Demo\Excisting App\SampleExistingApp\SecureDb.Core\bin\Debug\net8.0-windows\SecureDb.Core.dll" target="lib\net8.0-windows7.0\SecureDb.Core.dll" />
+  </files>
+</package>

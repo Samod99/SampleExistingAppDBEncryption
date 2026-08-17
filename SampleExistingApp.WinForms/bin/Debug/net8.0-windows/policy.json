@@ -1,0 +1,23 @@
+[
+  {
+    "TableName": "Employee",
+    "ColumnName": "Email",
+    "KeyId": "employee-email-v1",
+    "Mode": "Deterministic",
+    "Enabled": true
+  },
+  {
+    "TableName": "Employee",
+    "ColumnName": "NIC",
+    "KeyId": "employee-nic-v1",
+    "Mode": "Deterministic",
+    "Enabled": true
+  },
+  {
+    "TableName": "BankDetails",
+    "ColumnName": "AccountNumber",
+    "KeyId": "bankdetails-accountnumber-v1",
+    "Mode": "Deterministic",
+    "Enabled": true
+  }
+]

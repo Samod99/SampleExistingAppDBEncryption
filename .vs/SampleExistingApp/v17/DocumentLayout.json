@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OSSEC Binusha\\Dev\\DB Encryption Demo\\Excisting App\\SampleExistingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEF9675-401D-4261-847F-5F4D6D81CAAD}|SecureDb.MigrationTool\\SecureDb.MigrationTool.csproj|c:\\ossec binusha\\dev\\db encryption demo\\excisting app\\sampleexistingapp\\securedb.migrationtool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEF9675-401D-4261-847F-5F4D6D81CAAD}|SecureDb.MigrationTool\\SecureDb.MigrationTool.csproj|solutionrelative:securedb.migrationtool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468044F3-67AD-4B3E-8453-3B612FAECCEF}|SecureDb.Profiler\\SecureDb.Profiler.csproj|c:\\ossec binusha\\dev\\db encryption demo\\excisting app\\sampleexistingapp\\securedb.profiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468044F3-67AD-4B3E-8453-3B612FAECCEF}|SecureDb.Profiler\\SecureDb.Profiler.csproj|solutionrelative:securedb.profiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273F55E1-006E-477B-BBC0-3008A806CFE4}|SampleExistingApp.WinForms\\SampleExistingApp.WinForms.csproj|c:\\ossec binusha\\dev\\db encryption demo\\excisting app\\sampleexistingapp\\sampleexistingapp.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273F55E1-006E-477B-BBC0-3008A806CFE4}|SampleExistingApp.WinForms\\SampleExistingApp.WinForms.csproj|solutionrelative:sampleexistingapp.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OSSEC Binusha\\Dev\\DB Encryption Demo\\Excisting App\\SampleExistingApp\\SecureDb.MigrationTool\\Program.cs",
+              "RelativeDocumentMoniker": "SecureDb.MigrationTool\\Program.cs",
+              "ToolTip": "C:\\OSSEC Binusha\\Dev\\DB Encryption Demo\\Excisting App\\SampleExistingApp\\SecureDb.MigrationTool\\Program.cs",
+              "RelativeToolTip": "SecureDb.MigrationTool\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T00:30:27.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OSSEC Binusha\\Dev\\DB Encryption Demo\\Excisting App\\SampleExistingApp\\SecureDb.Profiler\\Program.cs",
+              "RelativeDocumentMoniker": "SecureDb.Profiler\\Program.cs",
+              "ToolTip": "C:\\OSSEC Binusha\\Dev\\DB Encryption Demo\\Excisting App\\SampleExistingApp\\SecureDb.Profiler\\Program.cs",
+              "RelativeToolTip": "SecureDb.Profiler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T23:14:59.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OSSEC Binusha\\Dev\\DB Encryption Demo\\Excisting App\\SampleExistingApp\\SampleExistingApp.WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "SampleExistingApp.WinForms\\Program.cs",
+              "ToolTip": "C:\\OSSEC Binusha\\Dev\\DB Encryption Demo\\Excisting App\\SampleExistingApp\\SampleExistingApp.WinForms\\Program.cs",
+              "RelativeToolTip": "SampleExistingApp.WinForms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T23:14:48.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

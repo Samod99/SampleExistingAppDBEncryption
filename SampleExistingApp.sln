@@ -1,0 +1,46 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureDb.Core", "SecureDb.Core\SecureDb.Core.csproj", "{347644E2-FCFB-497B-A661-734E0282AD8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureDb.Data", "SecureDb.Data\SecureDb.Data.csproj", "{153645EE-288F-445F-ADEB-288225AFB87B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureDb.Profiler", "SecureDb.Profiler\SecureDb.Profiler.csproj", "{468044F3-67AD-4B3E-8453-3B612FAECCEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureDb.MigrationTool", "SecureDb.MigrationTool\SecureDb.MigrationTool.csproj", "{CDEF9675-401D-4261-847F-5F4D6D81CAAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleExistingApp.WinForms", "SampleExistingApp.WinForms\SampleExistingApp.WinForms.csproj", "{273F55E1-006E-477B-BBC0-3008A806CFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{347644E2-FCFB-497B-A661-734E0282AD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347644E2-FCFB-497B-A661-734E0282AD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347644E2-FCFB-497B-A661-734E0282AD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347644E2-FCFB-497B-A661-734E0282AD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153645EE-288F-445F-ADEB-288225AFB87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153645EE-288F-445F-ADEB-288225AFB87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153645EE-288F-445F-ADEB-288225AFB87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153645EE-288F-445F-ADEB-288225AFB87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468044F3-67AD-4B3E-8453-3B612FAECCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468044F3-67AD-4B3E-8453-3B612FAECCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468044F3-67AD-4B3E-8453-3B612FAECCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468044F3-67AD-4B3E-8453-3B612FAECCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDEF9675-401D-4261-847F-5F4D6D81CAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEF9675-401D-4261-847F-5F4D6D81CAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEF9675-401D-4261-847F-5F4D6D81CAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEF9675-401D-4261-847F-5F4D6D81CAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273F55E1-006E-477B-BBC0-3008A806CFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273F55E1-006E-477B-BBC0-3008A806CFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273F55E1-006E-477B-BBC0-3008A806CFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273F55E1-006E-477B-BBC0-3008A806CFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

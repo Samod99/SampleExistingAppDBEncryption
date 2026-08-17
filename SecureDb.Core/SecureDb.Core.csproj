@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>SecureDb.Core</RootNamespace>
+    <AssemblyName>SecureDb.Core</AssemblyName>
+  </PropertyGroup>
+
+  <!-- NuGet package metadata — this is what makes "dotnet pack" produce a real,
+       installable package instead of just a DLL. Update Version each time you change
+       this library and want a consuming app to be able to pick up the new behavior. -->
+  <PropertyGroup>
+    <PackageId>SecureDb.Core</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Your Team</Authors>
+    <Description>Envelope-encryption engine and key manager for SecureDb. No database-specific code.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Security.Cryptography.ProtectedData" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>
